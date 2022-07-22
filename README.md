@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🎓 I'm a Ph.D. candidate at Michigan State University supervised by Prof. Jiliang Tang.
+- 🔭 I’m currently working on research topic: causal discovery for unbiased learning to rank, optimization landscape Graph Neural Network.
+- 👯 I’m collaborate on the finanical knowledge graph and controllable molecule generalization. I am always exicted on the possible application for Deep Learning on Graph. Looking forward to discussing with you.
+- 📫 How to reach me: haitaoma@msu.edu
+
+[![huanhuqueyue's github stats](https://github-readme-stats.vercel.app/api?username=huanhuqueyue&show_icons=true)](https://github-readme-stats.vercel.app/api?username=huanhuqueyue&show_icons=true)
+
 <!--
 **huanhuqueyue/huanhuqueyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
