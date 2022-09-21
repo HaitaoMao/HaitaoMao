@@ -6,7 +6,7 @@
 - 👯 I’m collaborating on the finanical knowledge graph. I am always exicted on the possible application for Deep Learning on Graph. Looking forward to discussing with you.
 - 📫 How to reach me: haitaoma@msu.edu
 
-[![huanhuqueyue's github stats](https://github-readme-stats.vercel.app/api?username=huanhuqueyue&show_icons=true)](https://github-readme-stats.vercel.app/api?username=huanhuqueyue&show_icons=true)
+[![HaitaoMao's github stats](https://github-readme-stats.vercel.app/api?username=HaitaoMao&show_icons=true)](https://github-readme-stats.vercel.app/api?username=HaitaoMao&show_icons=true)
 
 <!--
 **huanhuqueyue/huanhuqueyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
