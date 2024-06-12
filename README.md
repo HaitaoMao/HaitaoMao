@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
-- 🎓 I'm a Ph.D. student at Michigan State University supervised by Prof. Jiliang Tang.
-- 🔭 I’m currently working on research topic: Graph Foundation Model and inner mechanism of LLM
-- 👯 I am always exicted on the possible application for Deep Learning on Graph. Looking forward to discussing with you.
+- 🎓 I'm a Ph.D. student at Michigan State University. 
+- 🔭 I’m currently working on research topics: Graph Foundation Model and understanding LLM
+- 👯 I am always exicted on the possible application for Graph Foundation Model. Looking forward to discussing with you.
 - 📫 How to reach me: haitaoma@msu.edu
 
 [![HaitaoMao's github stats](https://github-readme-stats.vercel.app/api?username=HaitaoMao&show_icons=true)](https://github-readme-stats.vercel.app/api?username=HaitaoMao&show_icons=true)
